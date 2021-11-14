@@ -20,6 +20,7 @@ int main() {
 	func4(&tp);
 	printf("***tp = %d\n", ***tp);
 	printf("i = %d\n", i);
+	printf("*연동후 수정된 코드*");
 	return 0;
 }
 void func1(int* p)
